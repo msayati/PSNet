@@ -79,7 +79,12 @@ Models are evaluated using stratified cross-validation and prioritization-based 
 ---
 
 ## Repository Structure
-
+Preprocessing.ipynb # Data cleaning and integration
+Knowledge_Graph.ipynb # Knowledge graph construction
+P_S.ipynb # Phosphatase–phosphosite prediction
+LOOCV.ipynb # Leave-one-out cross-validation
+Figure1.jpg # Framework illustration
+README.md # Documentation
 
 ---
 
