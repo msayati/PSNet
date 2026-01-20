@@ -80,3 +80,23 @@ Models are evaluated using stratified cross-validation and prioritization-based 
 
 ## Repository Structure
 
+
+---
+
+## Notebooks Description
+
+- **Preprocessing.ipynb**: data cleaning and identifier harmonization  
+- **Knowledge_Graph.ipynb**: heterogeneous graph construction  
+- **P_S.ipynb**: prediction experiments  
+- **LOOCV.ipynb**: leave-one-out and prioritization analysis  
+
+---
+
+## Key Features
+
+- Predicts candidate phosphatases for a given phosphosite  
+- Covers approximately 250 human phosphatases  
+- Integrates multi-relational biological data  
+- Designed for experimental prioritization  
+
+
